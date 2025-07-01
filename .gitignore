@@ -1,0 +1,14 @@
+# Ignore Excel temp and backup files
+*.xlsb~
+*.tmp
+~$*
+
+# Ignore compiled binary add-ins or backups (if any)
+*.xla
+*.xlam~
+*.bak
+
+# Optional: Ignore VBA export files (if used in automation)
+*.bas
+*.cls
+*.frm
