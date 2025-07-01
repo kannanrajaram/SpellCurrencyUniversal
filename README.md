@@ -82,7 +82,7 @@ Includes full detection and formatting for:
 
 ## 🧪 Testing
 
-Comes with a test sheet (`/tests/TestCases.xlsx`) featuring 100+ real-world currency formats for validation. Includes:
+Comes with a test sheet (`CurrencySpellerUniversal_testcases.xlsx`) featuring 100+ real-world currency formats for validation. Includes:
 
 - Symbol-prefixed and ISO-suffixed formats
 - Decimal and zero-decimal currencies
