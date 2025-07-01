@@ -1,5 +1,6 @@
 ### 📘 `README.md` — SpellCurrencyUniversal
-
+![Version](https://img.shields.io/badge/version-v1.0.0-blue.svg)
+![Supported Currencies](https://img.shields.io/badge/Supported%20Currencies-12-blue)
 ```markdown
 # 💸 SpellCurrencyUniversal
 
@@ -76,8 +77,6 @@ Includes full detection and formatting for:
 - CHF – Swiss Franc
 - TWD – New Taiwan Dollar (NT$)
 - and others...
-
-See [`currency-metadata.bas`](./) for full list.
 
 ---
 
